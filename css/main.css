@@ -1,0 +1,32 @@
+* {
+	margin: 0px 2px;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+img {
+    max-width:85%;
+}
+
+#content {
+    margin: 0 auto;
+    display: block;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+#paragrafo {
+    display: block;
+}
+
+#linha {
+    width: 100%;
+}
